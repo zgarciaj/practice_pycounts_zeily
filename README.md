@@ -2,6 +2,8 @@
 
 Please note that the content presented here is not the original creation of the author, Zeily Garcia. This material is a reproduced version of an exercise sourced from [py-pkgs.org](https://py-pkgs.org/03-how-to-package-a-python). It is used solely for educational purposes as part of an assignment in a Data Science Master's program. 
 
+## [Read The Docs Link](https://practice-pycounts-zeily-second.readthedocs.io/en/latest/example.html)
+
 # pycounts
 
 calculates counts of unique words it a text file
