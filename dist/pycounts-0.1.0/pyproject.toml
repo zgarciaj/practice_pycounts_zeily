@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts_z"
+name = "pycounts"
 version = "0.1.0"
 description = "calculates counts of unique words it a text file"
 authors = ["Zeily Garcia"]
